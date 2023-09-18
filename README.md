@@ -1,7 +1,13 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Artificial Intelligence Foundations: Neural Networks
+This is the repository for the LinkedIn Learning course Artificial Intelligence Foundations: Neural Networks. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Artificial Intelligence Foundations: Neural Networks][lil-thumbnail-url] 
+
+An artificial neural network uses the human brain as inspiration for creating a complex machine learning system. They can classify millions of sounds, videos, and images, answer our questions, understand our behaviors, and even drive our cars. Neural networks are also the foundation of generative AI.
+
+
+This course introduces the fundamental techniques and principles of neural networks, common models, and their applications. Instructor Gwendolyn Stripling takes you through the different neural network architectures, their components, appropriate use cases, and best practices for improving neural network model performance.  Plus, gain hands-on experience building and training a neural network using the Keras Sequential API, an open-source library that demystifies the design and training of neural networks. If you’re looking to achieve a solid understanding of how to build, train, improve and use neural networks, join Gwendolyn in this course.
+
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -28,9 +34,15 @@ To resolve this issue:
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. [Course-specific instructions]
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Gwendolyn Stripling 
+                            
+Gwendolyn Stripling, Ph.D
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+                            
 
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/gwendolyn-stripling).
+
+[lil-course-url]: https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEoegTVKM0iTw/learning-public-crop_288_512/0/1694723397057?e=2147483647&v=beta&t=PKLHqEOG8zomrm4rMjxvS8y9kRu7VQ0dJFlc4dp8g_I
