@@ -12,7 +12,7 @@ This course introduces the fundamental techniques and principles of neural netwo
 _See the readme file in the main branch for updated instructions and information._
 
 ## Instructions
-There are two hands-on challenges for you to try on your own. The files needed for these challenges are lableded "04_07_xxxx" and "05_06_xxxx". You'll see a begin and an extras file for each challenge. Use the begin files to try the challenge on your own. Feel free to reference the end files for the solution and the extras file for added code that you can run for additional functionality. 
+There are two hands-on challenges for you to try on your own. The files needed for these challenges are labeled "04_07_xxxx" and "05_06_xxxx". You'll see a begin and an extras file for each challenge. Use the begin files to try the challenge on your own. Feel free to reference the end files for the solution and the extras file for added code that you can run for additional functionality. 
 
 ## Installing
 1. To use the files, please clone the repo into your own GitHub account or download the files locally.
